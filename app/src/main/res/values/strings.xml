@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Covid Connect</string>
+    
+    <!-- Strings related to login -->
+    <string name="prompt_user">User</string>
+    <string name="prompt_artisan">Artisan</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Log in</string>
+    <string name="prompt_show_hide">Show Password</string>
+    
+    <!-- Strings related to sing up -->
+    <string name="prompt_fname">First name</string>
+    <string name="prompt_lname">Last name</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+</resources>
